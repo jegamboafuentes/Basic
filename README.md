@@ -6,4 +6,3 @@ This repository is a simple test repository. It was created to test out GitHub f
 
 * A README file
 * A few files with some text in them
-* A simple Python script
